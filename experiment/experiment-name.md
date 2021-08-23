@@ -1,1 +1,1 @@
-## Experiment name
+## Modeling the delayed rectifier Potassium channels 
