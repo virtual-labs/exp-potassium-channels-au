@@ -1,1 +1,1 @@
-Modeling the delayed rectifier Potassium channels 
+## Modeling the delayed rectifier Potassium channels
