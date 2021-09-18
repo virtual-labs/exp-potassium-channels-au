@@ -1,0 +1,82 @@
+{
+  "version": 2.0,
+  "questions": [
+    
+    {
+      "question": "1. Why potassium channel of axon given the name delayed rectifier ? ",
+      "answers": {
+        "a": "Changes membrane conductance with a delay",
+        "b": "Changes membrane capacitance with a delay",
+        "c": "Changes membrane resistance with a delay",
+        "d": " None"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+  
+
+
+    {
+      "question": "2. Which of these biophysical laws were used in membrane biophysics ? ",
+      "answers": {
+        "a": "Ohms Law",
+        "b": "Kirchoff first law",
+        "c": "Kirchoff second law",
+        "d": "All"
+       
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "3. What stabilizes the membrane potential ? ",
+      "answers": {
+        "a": "Open potassium channels",
+        "b": "Open sodium channels",
+        "c": "Closed sodium channels",
+        "d": "Closed potassium channels"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+
+
+    {
+      "question": "4. The particles regulating the potassium channel according to Hodgkin and Huxley:",
+      "answers": {
+        "a": "h",
+        "b": "m",
+        "c": "n",
+        "d": "all"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "5. The size of the needed ionic flux depends on: ",
+      "answers": {
+        "a": "Volume of the cell",
+        "b": "Surface area of the cell",
+        "c": "Both",
+        "d": "none"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+
+
+  ]
+}
